@@ -29,10 +29,10 @@ Chinese_musical_instruments = ["Se", "Guzheng", "Konghou", "Huluqin", "Huleiqin"
                                "Jiegu", "Tao", "Bolang Gu", "Linggu", "Gudi", "Hailuo",
                                "Kouxian", "Yedi", "Shuijingdi", "Zutongqin"]
 
-def show_number_of_all_chinese_musical_instruments():
+def show_the_number_of_all_chinese_musical_instruments():
     print (len(Chinese_musical_instruments))
 
-show_number_of_all_chinese_musical_instruments()
+show_the_number_of_all_chinese_musical_instruments()
 
                              
                               
