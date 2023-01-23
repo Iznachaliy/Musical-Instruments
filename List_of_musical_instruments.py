@@ -1,3 +1,4 @@
+# 174 Chinese musical instruments
 Chinese_musical_instruments = ["Se", "Guzheng", "Konghou", "Huluqin", "Huleiqin", "Pipa",
                                "Liuqin", "Ruan", "Yueqin", "Qinqin", "Sanxian", "Duxianqin",
                                "Huobosi", "Tembor", "Dutar", "Rawap", "Tianqin", "Qiben",
@@ -33,6 +34,27 @@ def show_the_number_of_all_chinese_musical_instruments():
     print (len(Chinese_musical_instruments))
 
 show_the_number_of_all_chinese_musical_instruments()
+
+
+# 42 Japanese musical instruments
+Japanese_musical_instruments = ["Bin-sasara", "Hyoshigi", "Den-den daiko", "Ikko",
+                                "Kagura suzu", "Kakko", "Kane", "Kokiriko", "Shakubyoshi",
+                                "Mokugyo", "Otsuzumi", "Rin", "San-no-tsuzumi", "Sasara",
+                                "Sekkin", "Shime-daiko", "Shoko", "Taiko", "Tsuri-daiko",
+                                "Tsuzumi", "Ichigenkin", "Junanagen", "Koto", "Yamatogoto",
+                                "Kugo", "Tayshogoto", "Biwa", "Gottan", "Shamisen", "Tonkori",
+                                "Kokyu", "Hocchiku", "Nohkan", "Ryuteki", "Kagurabue",
+                                "Komabue", "Shakuhachi", "Shinobue", "Tsuchibue", "Hichiriki",
+                                "Sho", "Horagai"]
+
+def show_the_number_of_all_japanese_musical_instruments():
+    print (len(Japanese_musical_instruments))
+    
+show_the_number_of_all_japanese_musical_instruments()
+
+
+                             
+                                
 
                              
                               
